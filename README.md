@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Python, SQL, Docker, and cloud platforms.
 - 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and innovative software development.
 - 📫 How to reach me: https://www.linkedin.com/in/oleksandra-kanunnikova-516800262/
-- 😄 Pronouns: XX chromosomes. 
-- ⚡ Fun fact: I love touching the grass.
 
 
 <!---
