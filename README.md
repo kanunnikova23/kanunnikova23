@@ -1,6 +1,6 @@
 👋 Hi, I’m Oleksandra
-- 👀 I’m interested in data engineering, data science, and data analysis.
-- 🌱 I’m currently learning Python, SQL, Docker, and cloud platforms.
+- 👀 I’m interested in software development and cloud technologies.
+- 🌱 I’m currently learning .NET, Python, SQL, Docker, and cloud platforms.
 - 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and innovative software development.
 - 📫 How to reach me: https://www.linkedin.com/in/oleksandra-kanunnikova-516800262/
 
