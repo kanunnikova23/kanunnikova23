@@ -1,8 +1,8 @@
-👋 Hi, I’m Oleksandra
-- 👀 I’m interested in software development and cloud technologies.
-- 🌱 I’m currently learning Python, FastAPI, Django, SQL, Docker, and AWS.
-- 🤝 I’m passionate about backend development, building clean APIs, and scaling systems that just work.
-- 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and innovative software development.
+👋 Hi, I’m Oleksandra 
+- 👀 I’m passionate about software development and cloud technologies.
+- 🌱 Tech stack that I work with : Python, Java, Javascript, SQL/noSQL, Docker, and AWS.
+- 🌱 Frameworks that I have used : FastAPI, Django, Next.js, React, Spring boot.
+- 💞️ I’m looking to contribute to data-driven projects, open-source contributions, and innovative software development.
 - 📫 How to reach me: https://www.linkedin.com/in/oleksandra-kanunnikova/
 
 
