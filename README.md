@@ -7,7 +7,7 @@ Currently focused on **Python (FastAPI)**, **Java (Spring Boot)**, and **Next.js
 
 - 💻 **I love creating**: backend systems, APIs, and automation tools that actually solve real-world problems.  
 - 🌱 **Tech stack**: `Python` · `Java` · `JavaScript` · `SQL / NoSQL` · `Docker` · `AWS`  
-- 💞️ **Looking to contribute to**: data-driven projects, open-source collaborations, and innovative backend systems.  
+- 💞️ **Looking to contribute to**: data-driven projects and open-source collaborations.  
 - 🌍 **Cloud curious**: exploring infrastructure, CI/CD pipelines, and scalable microservices.  
 - 📫 **Let’s connect:**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oleksandra%20Kanunnikova-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleksandra-kanunnikova/)  
