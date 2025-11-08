@@ -24,6 +24,11 @@ Currently focused on **Python (FastAPI)**, **Java (Spring Boot)**, and **Next.js
 |--------------|
 | ![NURE](https://img.shields.io/badge/Kharkiv%20National%20University%20of%20Radio%20Electronics-0078D7?style=for-the-badge&logo=graduationcap&logoColor=white) <br> <i> **Bachelor’s degree in Computer Science** |
 
+### 🏅 Certifications  
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Cisco CCNA: Introduction to Networks](https://img.shields.io/badge/Cisco%20CCNA:%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Google Advanced Data Analytics](https://img.shields.io/badge/Google%20Advanced%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 ---
 
 ## 📊 Coding Stats
