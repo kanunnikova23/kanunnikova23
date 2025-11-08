@@ -31,6 +31,10 @@ Currently focused on **Python (FastAPI)**, **Java (Spring Boot)**, and **Next.js
 ### 🧩 LeetCode  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kanunnjko01?theme=dark&font=Roboto)](https://leetcode.com/kanunnjko01/)
 
+### 🥋 Codewars  
+[![Codewars](https://github.r2v.ch/codewars?user=ilovepugsUA&theme=dark)](https://www.codewars.com/users/ilovepugsUA)
+
+
 ### 🐙 GitHub  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanunnikova23&layout=compact&theme=radical)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanunnikova23&show_icons=true&theme=radical)  
